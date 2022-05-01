@@ -1,0 +1,11 @@
+#player{
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 10px 1px  rgb(105, 105, 105);
+    border-radius: 15px;
+}
+
+body{
+    background: url(background.jpg);
+    background-size: auto;
+}
